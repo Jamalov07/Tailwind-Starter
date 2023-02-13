@@ -1,0 +1,82 @@
+.katalog {
+  background: linear-gradient(270deg, #4d5ef6 0%, #f64d4d 100%);
+}
+
+.katalog:hover {
+  background: linear-gradient(270deg, #f64d4d 0%, #4d5ef6 100%);
+}
+
+.katalog:active {
+  background: linear-gradient(
+    270deg,
+    #f64d4d 0%,
+    #4d5ef6 30%,
+    #02da30 50%,
+    #d2e907 70%,
+    #dd099d 100%
+  );
+}
+/* 
+.btn:hover {
+  background: linear-gradient(
+    270deg,
+    #5a0808 0%,
+    #0b20e2 10%,
+    #0b4b19 20%,
+    #414705 30%,
+    #5c0542 40%,
+    #69044b 50%,
+    #142b38 60%,
+    #032d38 70%,
+    #4d0c03 80%,
+    #3c0552 90%,
+    #05215c 100%
+  );
+} */
+.enter {
+  background: linear-gradient(
+    270deg,
+    rgba(77, 94, 246, 0.2) 0%,
+    rgba(246, 77, 77, 0.2) 100%
+  );
+}
+
+header {
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.left {
+  background: linear-gradient(
+    270deg,
+    rgba(77, 94, 246, 0.2) 0%,
+    rgba(246, 77, 77, 0.2) 100%
+  );
+}
+
+.right {
+  background: linear-gradient(270deg, #4d5ef6 0%, #f64d4d 100%);
+}
+
+.sym {
+  background: linear-gradient(
+    270deg,
+    rgba(77, 94, 246, 0.2) 0%,
+    rgba(246, 77, 77, 0.2) 100%
+  );
+}
+
+.active {
+  background: linear-gradient(270deg, #4d5ef6 0%, #f64d4d 100%);
+}
+
+footer {
+  background: linear-gradient(
+    270deg,
+    rgba(77, 94, 246, 0.2) 0%,
+    rgba(246, 77, 77, 0.2) 100%
+  );
+}
+
+hr {
+  background: linear-gradient(270deg, #4d5ef6 0%, #f64d4d 100%);
+}
